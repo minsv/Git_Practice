@@ -2,4 +2,5 @@ Sample file for practicing git
 
 change in master
 
-HOTFIX successful
+HEADHOTFIX successful
+iss 53 fix
