@@ -1,3 +1,5 @@
 Sample file for practicing git
 
 change in master
+
+iss 53 fix
