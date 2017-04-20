@@ -1,5 +1,5 @@
 Sample file for practicing git
-
+today test
 
 change in master
 
