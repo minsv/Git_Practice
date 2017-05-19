@@ -10,7 +10,7 @@ made a change
 include testing branch
 MASTER TODAY
 
-MASTER KEEP GOING
+for_resolve_test
 
 
 [rebase resolved]
