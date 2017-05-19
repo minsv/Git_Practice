@@ -1,4 +1,4 @@
 import this
 import antigravity
 
-print("one more line")
+print("Let's compromise to this!")
