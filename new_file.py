@@ -14,4 +14,22 @@ pd.DataFrame(np.array([1,2,3],[4,5,6],[7,8,9]))
 
 data = pd.DataFrame(np.array([1,2,3],[4,5,6],[7,8,9]))
 
-# Reset to data
+#Reset to data
+
+
+# creating list
+list1 = [ 1, 2, 3, 4, 5]
+
+# quicksort
+def quickSort(array):
+	if len(array) <= 1:
+		return array
+	
+	
+left = []
+right = []
+
+
+#bubblesort
+
+# linkedlist
