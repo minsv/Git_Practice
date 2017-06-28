@@ -29,3 +29,5 @@ def quickSort(array):
 left = []
 right = []
 
+
+#bubblesort
