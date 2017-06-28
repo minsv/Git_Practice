@@ -31,3 +31,5 @@ right = []
 
 
 #bubblesort
+
+# linkedlist
